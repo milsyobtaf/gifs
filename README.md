@@ -1,0 +1,1 @@
+My collection of reaction gifs. I have these in my Dropbox public folder and access them through Alfred using this workflow, http://destroytoday.com/blog/gif-workflow/. I modified the workflow to look for jpg as well as gif in the Filetype section of the File Filter in the workflow edit view.
