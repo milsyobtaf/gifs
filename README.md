@@ -1,6 +1,8 @@
 ## Reactions!
 My collection of reaction gifs. I have these mirrored in a folder on my local machine, and access them through Alfred using a modified version of this workflow, http://destroytoday.com/blog/gif-workflow/.
 
+## [Them GIFs](https://github.com/milsyobtaf/gifs)
+
 **Modifications**
 * Set filetype to look for JPG / JPEG and PNG in addition to GIF
 * File filter still looks inside the local mirror on my machine
