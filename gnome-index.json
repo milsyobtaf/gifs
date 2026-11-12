@@ -2112,6 +2112,14 @@
         "you"
       ]
     },
+    "klipy-8885757631621551.gif" : {
+      "ocrFileSize" : 6068134,
+      "ocrText" : [
+        "oh",
+        "terrible",
+        "that's"
+      ]
+    },
     "lakers-ohdamn.gif" : {
       "ocrFileSize" : 983512,
       "ocrText" : [
@@ -3116,6 +3124,14 @@
         "um"
       ]
     },
+    "snl-bill-hader-oh-thats-terrible.gif" : {
+      "ocrFileSize" : 6068134,
+      "ocrText" : [
+        "oh",
+        "terrible",
+        "that's"
+      ]
+    },
     "snl-bots-bots-bots.gif" : {
       "ocrFileSize" : 986132,
       "ocrText" : [
@@ -3514,9 +3530,6 @@
     "twin-peaks-andy-surprised-wow.png" : {
       "ocrFileSize" : 485815
     },
-    "twin-peaks-andy-surprised-wow.webp" : {
-      "ocrFileSize" : 24946
-    },
     "twin-peaks-dale-cooper-thumbs-up-yes.gif" : {
       "ocrFileSize" : 1552535
     },
@@ -3543,9 +3556,6 @@
       "ocrFileSize" : 1933022
     },
     "twin-peaks-laura-palmer-vhs-eye-zoom.gif" : {
-      "ocrFileSize" : 1041059
-    },
-    "twinpeaks-laura-palmer-vhs-eye-zoom.gif" : {
       "ocrFileSize" : 1041059
     },
     "twisted-sister-glitter-drum-crash.gif" : {
