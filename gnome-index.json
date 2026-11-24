@@ -63,6 +63,22 @@
     "RMN-trippVScone.gif" : {
       "ocrFileSize" : 533028
     },
+    "a-computer-can-never-be-held-accountable.jpg" : {
+      "ocrFileSize" : 91201,
+      "ocrText" : [
+        "accountable",
+        "be",
+        "can",
+        "computer",
+        "decision",
+        "held",
+        "make",
+        "management",
+        "must",
+        "never",
+        "therefore"
+      ]
+    },
     "addamsfamily-dance.gif" : {
       "ocrFileSize" : 1001249
     },
@@ -2047,6 +2063,9 @@
         "turn"
       ]
     },
+    "king-of-the-hill-peggy-exhale.gif" : {
+      "ocrFileSize" : 2163356
+    },
     "kingofthehill-bobby-thats-my-purse.gif" : {
       "ocrFileSize" : 376607,
       "ocrText" : [
@@ -3051,6 +3070,16 @@
         "um"
       ]
     },
+    "snl-bill-hader-oh-thats-terrible.gif" : {
+      "ocrFileSize" : 6068134,
+      "ocrText" : [
+        "oh",
+        "sni",
+        "snl",
+        "terrible",
+        "that's"
+      ]
+    },
     "snl-bots-bots-bots.gif" : {
       "ocrFileSize" : 986132,
       "ocrText" : [
@@ -3449,6 +3478,9 @@
         "oni"
       ]
     },
+    "twin-peaks-andy-surprised-wow.png" : {
+      "ocrFileSize" : 485815
+    },
     "twin-peaks-dale-cooper-thumbs-up-yes.gif" : {
       "ocrFileSize" : 1552535
     },
@@ -3474,7 +3506,7 @@
     "twin-peaks-laura-palmer-tv-television-close-up.gif" : {
       "ocrFileSize" : 1933022
     },
-    "twinpeaks-laura-palmer-vhs-eye-zoom.gif" : {
+    "twin-peaks-laura-palmer-vhs-eye-zoom.gif" : {
       "ocrFileSize" : 1041059
     },
     "twisted-sister-glitter-drum-crash.gif" : {
