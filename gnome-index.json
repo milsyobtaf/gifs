@@ -3600,6 +3600,15 @@
         "whale"
       ]
     },
+    "willy-wonka-stop-dont-come-back.png" : {
+      "ocrFileSize" : 731316,
+      "ocrText" : [
+        "back",
+        "come",
+        "don't",
+        "stop"
+      ]
+    },
     "workaholics-adam-no-stink-face.gif" : {
       "ocrFileSize" : 915191
     },
